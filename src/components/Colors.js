@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 
 function Colors({ match }) {
   const color = match.params.color;
-  console.log(color);
   const divStyle = {
     width: '500px',
     height: '500px',
