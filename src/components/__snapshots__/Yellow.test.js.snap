@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Yellow component renders Yellow 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "yellow",
+      "height": "500px",
+      "width": "500px",
+    }
+  }
+/>
+`;
